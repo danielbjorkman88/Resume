@@ -1,6 +1,4 @@
-# publication_list
-
-# Publications
+# Publication list
 
 ## Journal Articles and Conference Proceedings
 
