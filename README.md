@@ -1,4 +1,4 @@
-# Publication list
+# Publication list of Dr. Daniel Björkman
 
 ## Journal Articles and Conference Proceedings
 
