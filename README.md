@@ -22,5 +22,5 @@
 
 10. ["A Bright Vision for Ocular Proton Therapy"](https://www.research-collection.ethz.ch/handle/20.500.11850/720341) PhD thesis, 2024
 
-11. **Cost Function and NTCP-Based Gaze Optimization in Ocular Proton Therapy Informed by Machine Learning Predictions**, *Medical Physics (in review), 2025*.
+11. ["Machine learning prediction-informed gaze optimization in ocular proton therapy with NTCP evaluation"](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.70108), *Medical Physics, 2025*
 
