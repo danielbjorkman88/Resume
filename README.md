@@ -2,7 +2,7 @@
 
 ## Journal Articles and Conference Proceedings
 
-1. **D. Björkman, H. Vincke (2019).** CERN, Geneva, Switzerland. ["High Energy Internal Beam Dump System for the Super Proton Synchrotron"](https://www.oecd-nea.org/science/wprs/egsaatif/), paper presented at *the 14th Specialists' Workshop on Shielding Aspects of Accelerators, Targets, and Irradiation Facilities (SATIF-14)*, Gyeongju, Korea, 30 October - 2 November 2018.
+1. **D. Björkman, H. Vincke (2019).** CERN, Geneva, Switzerland. ["High Energy Internal Beam Dump System for the Super Proton Synchrotron"](https://www.oecd-nea.org/upload/docs/application/pdf/2021-12/nea_nsc_r_2021_2_satif_14.pdf?utm_source=chatgpt.com), paper presented at *the 14th Specialists' Workshop on Shielding Aspects of Accelerators, Targets, and Irradiation Facilities (SATIF-14)*, Gyeongju, Korea, 30 October - 2 November 2018.
 
 2. **D. Björkman, B. Balhan, J. Borburgh, L.S. Esposito, M.A. Fraser, B. Goddard, L.S. Stoel, H. Vincke (2019).** CERN, Geneva, Switzerland. ["Alternative Material Choices to Reduce Activation of Extraction Equipment"](https://accelconf.web.cern.ch/ipac2019/papers/wepmp024.pdf), *The 10th International Particle Accelerator Conference (IPAC-19)*, Melbourne, Australia, 19 – 24 May 2019.
 
