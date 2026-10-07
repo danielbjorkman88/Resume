@@ -6,7 +6,7 @@
 
 2. **D. Björkman, B. Balhan, J. Borburgh, L.S. Esposito, M.A. Fraser, B. Goddard, L.S. Stoel, H. Vincke (2019).** CERN, Geneva, Switzerland. ["Alternative Material Choices to Reduce Activation of Extraction Equipment"](https://accelconf.web.cern.ch/ipac2019/papers/wepmp024.pdf), *The 10th International Particle Accelerator Conference (IPAC-19)*, Melbourne, Australia, 19 – 24 May 2019.
 
-3. ["SPS Slow Extraction Losses and Activation: Challenges and Possibilities for Improvement"](https://inspirehep.net/literature/1626372)
+3. ["SPS Slow Extraction Losses and Activation: Challenges and Possibilities for Improvement"](https://proceedings.jacow.org/ipac2017/papers/mopik045.pdf?utm_source=chatgpt.com)
 
 4. ["Improvements to the SPS Slow Extraction for High Intensity Operation"](https://cds.cern.ch/record/2668989)
 
