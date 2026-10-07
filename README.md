@@ -20,7 +20,7 @@
 
 9. ["Advanced Monte Carlo simulations and benchmark of residual dose rate assessments in the ATLAS detector at CERN LHC"](https://nstopenresearch.org/articles/2-71/v1), 2024
 
-10. ["A Bright Vision for Ocular Proton Therapy"](https://www.research-collection.ethz.ch/handle/20.500.11850/720341) PhD thesis, 2025
+10. ["A Bright Vision for Ocular Proton Therapy"](https://www.research-collection.ethz.ch/handle/20.500.11850/720341) PhD thesis, 2024
 
 11. ["Machine learning prediction-informed gaze optimization in ocular proton therapy with NTCP evaluation"](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.70108), *Medical Physics, 2025*
 
